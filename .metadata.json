@@ -1,0 +1,18 @@
+[
+  {
+    "package": "hellno",
+    "oncran": true
+  },
+  {
+    "package": "librarysnapshot",
+    "oncran": true
+  },
+  {
+    "package": "r6extended",
+    "oncran": true
+  },
+  {
+    "package": "wikipediatrend",
+    "oncran": true
+  }
+]
