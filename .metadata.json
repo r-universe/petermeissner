@@ -1,6 +1,18 @@
 [
   {
+    "package": "crossword.r",
+    "oncran": true
+  },
+  {
+    "package": "dsmisc",
+    "oncran": true
+  },
+  {
     "package": "hellno",
+    "oncran": true
+  },
+  {
+    "package": "ical",
     "oncran": true
   },
   {
@@ -9,6 +21,10 @@
   },
   {
     "package": "r6extended",
+    "oncran": true
+  },
+  {
+    "package": "tabit",
     "oncran": true
   },
   {
