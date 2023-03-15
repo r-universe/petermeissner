@@ -1,6 +1,10 @@
 [
   {
-    "package": "wikipediatrend",
+    "package": "hellno",
+    "oncran": true
+  },
+  {
+    "package": "librarysnapshot",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "hellno",
-    "oncran": true
-  },
-  {
-    "package": "librarysnapshot",
+    "package": "wikipediatrend",
     "oncran": true
   }
 ]

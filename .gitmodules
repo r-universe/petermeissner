@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "wikipediatrend"]
-	path = wikipediatrend
-	url = https://github.com/petermeissner/wikipediatrend
-	shallow = true
-	registered = true
-[submodule "r6extended"]
-	path = r6extended
-	url = https://github.com/petermeissner/r6extended
-	shallow = true
-	registered = true
 [submodule "hellno"]
 	path = hellno
 	url = https://github.com/petermeissner/hellno
@@ -21,5 +11,15 @@
 [submodule "librarysnapshot"]
 	path = librarysnapshot
 	url = https://github.com/petermeissner/librarysnapshot
+	shallow = true
+	registered = true
+[submodule "r6extended"]
+	path = r6extended
+	url = https://github.com/petermeissner/r6extended
+	shallow = true
+	registered = true
+[submodule "wikipediatrend"]
+	path = wikipediatrend
+	url = https://github.com/petermeissner/wikipediatrend
 	shallow = true
 	registered = true
