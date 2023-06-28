@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "crossword.r"]
 	path = crossword.r
 	url = https://github.com/petermeissner/crossword.r
-	shallow = true
-	registered = true
 [submodule "dsmisc"]
 	path = dsmisc
 	url = https://github.com/petermeissner/dsmisc
-	shallow = true
-	registered = true
 [submodule "hellno"]
 	path = hellno
 	url = https://github.com/petermeissner/hellno
-	shallow = true
-	registered = true
 [submodule "ical"]
 	path = ical
 	url = https://github.com/petermeissner/ical
-	shallow = true
-	registered = true
 [submodule "librarysnapshot"]
 	path = librarysnapshot
 	url = https://github.com/petermeissner/librarysnapshot
-	shallow = true
-	registered = true
 [submodule "r6extended"]
 	path = r6extended
 	url = https://github.com/petermeissner/r6extended
-	shallow = true
-	registered = true
 [submodule "stringb"]
 	path = stringb
 	url = https://github.com/cran/stringb
-	shallow = true
-	registered = true
 [submodule "tabit"]
 	path = tabit
 	url = https://github.com/petermeissner/tabit
-	shallow = true
-	registered = true
 [submodule "wikipediatrend"]
 	path = wikipediatrend
 	url = https://github.com/petermeissner/wikipediatrend
-	shallow = true
-	registered = true
