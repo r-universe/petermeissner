@@ -26,6 +26,3 @@
 [submodule "tabit"]
 	path = tabit
 	url = https://github.com/petermeissner/tabit
-[submodule "wikipediatrend"]
-	path = wikipediatrend
-	url = https://github.com/petermeissner/wikipediatrend
