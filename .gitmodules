@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "crossword.r"]
-	path = crossword.r
-	url = https://github.com/petermeissner/crossword.r
 [submodule "dsmisc"]
 	path = dsmisc
 	url = https://github.com/petermeissner/dsmisc
@@ -17,9 +14,6 @@
 [submodule "librarysnapshot"]
 	path = librarysnapshot
 	url = https://github.com/petermeissner/librarysnapshot
-[submodule "r6extended"]
-	path = r6extended
-	url = https://github.com/petermeissner/r6extended
 [submodule "tabit"]
 	path = tabit
 	url = https://github.com/petermeissner/tabit
