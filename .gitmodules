@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dsmisc"]
-	path = dsmisc
-	url = https://github.com/petermeissner/dsmisc
 [submodule "hellno"]
 	path = hellno
 	url = https://github.com/petermeissner/hellno
